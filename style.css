@@ -15,7 +15,7 @@ section {
 }
 
 body {
-    background-color:  #25b79f;
+    background-color:#FB8DA0;
     /* background-color: black; */
 }
 
@@ -364,7 +364,7 @@ progress::-webkit-progress-value {
 }
 
 footer {
-    background-color: orange;
+    background-color: white;
     padding: 80px;
     box-shadow: 0 0 45px grey;
 }
@@ -383,7 +383,17 @@ section h1 {
 .certificates h2 {
     color: #6d217a;
 }
+.certificates h3{
+    color:#6d217a;
+}
 
 .projects h2 {
     color: #6d217a;
 }
+.project h3 {
+    color:#6d217a;
+}
+.project h4 {
+    color:#6d217a;
+}
+
